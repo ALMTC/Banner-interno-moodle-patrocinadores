@@ -105,4 +105,7 @@ function geraslider(){
     })
 }
 
+
+//# sourceMappingURL=../sourcemaps/tiny-slider.js.map
+
 adicionaScripts();
